@@ -1,82 +1,149 @@
 # ResumeIQ
-ResumeIQ is a capstone project for **Resume Information Extraction**. The current Phase 3 starter implements the first backend component: reading selectable text from PDF and DOCX resumes.
+### Resume Information Extraction using NLP and Custom spaCy NER
 
-## Current features
+ResumeIQ is a resume-parsing capstone project that converts information in PDF and DOCX resumes into structured candidate details. It combines document reading, text preprocessing, section identification, a custom spaCy Named Entity Recognition (NER) model, and rule-based post-processing in a Streamlit interface.
 
-- Extracts text from PDF files using PyMuPDF.
-- Extracts paragraphs and tables from DOCX files using python-docx.
-- Selects the reader using the file extension.
-- Reports unsupported files, empty files, unreadable documents, and PDFs with no selectable text.
-- Includes sample PDF and DOCX resumes from the synthetic Phase 2 dataset.
+## Features
 
-**Not implemented yet:** OCR for scanned PDFs, text preprocessing, NLP/NER extraction, Streamlit GUI, CSV/JSON export, and model training. These will be developed in later steps.
+- Upload resumes in PDF and DOCX format.
+- Extract selectable text from PDFs and paragraphs/tables from DOCX files.
+- Preprocess extracted text while preserving information useful for resume parsing.
+- Identify common resume sections: Summary, Skills, Education, Experience, Projects, and Certifications.
+- Extract names, email addresses, phone numbers, skills, degrees, institutions, job titles, companies, dates, and experience details.
+- View extracted information in separate sections in the Streamlit app.
+- Download extracted information as CSV or JSON.
+- Use a custom-trained spaCy NER model with additional post-processing.
 
-## Project structure
+## Technology Stack
+
+- Python
+- Streamlit
+- spaCy
+- PyMuPDF
+- python-docx
+- Regular Expressions
+- Pandas
+
+## Project Structure
 
 ```text
-ResumeIQ_Phase3_Starter/
+ResumeIQ/
+├── app.py
 ├── document_reader.py
+├── text_preprocessing.py
+├── section_identifier.py
+├── resume_extractor.py
+├── resume_extractor_v2.py
+├── resume_extractor_v2_1.py
+├── train_resume_ner.py
+├── train_resume_ner_v2.py
+├── evaluate_resume_ner.py
+├── evaluate_resume_ner_v2.py
+├── prepare_nlp_data.py
+├── compare_ner_versions.py
 ├── test_reader.py
+├── test_preprocessing.py
+├── test_section_identifier.py
+├── test_nlp_preparation.py
 ├── requirements.txt
 ├── README.md
+├── dataset/
+├── models/
+│   ├── resume_ner/
+│   └── resume_ner_v2/
 ├── sample_resumes/
-│   ├── RES001.pdf
-│   └── RES001.docx
-├── dataset/                  # Full Phase 2 dataset is included here
-└── outputs/                  # Reserved for later output files
+├── outputs/
+└── Presentation/
 ```
 
-The complete Phase 2 dataset is included in `dataset/ResumeIQ_Phase2_Dataset/`, including synthetic resume text, annotations, train/validation/test splits, and sample upload documents.
+## Installation and Setup (Windows)
 
-## Setup on Windows (PowerShell)
-
-Open the project folder in VS Code, then open its terminal:
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Create and activate a virtual environment:
 
 ```powershell
 python -m venv venv
-venv\Scripts\activate
+.\venv\Scripts\Activate.ps1
+```
+
+4. Install dependencies:
+
+```powershell
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-If `python` is not recognised, install Python 3 and enable **Add Python to PATH** during installation, then reopen VS Code.
-
-## Test PDF extraction
+5. Run the application:
 
 ```powershell
-python test_reader.py sample_resumes/RES001.pdf
+python -m streamlit run app.py
 ```
 
-## Test DOCX extraction
+Open the local address shown in the terminal. Keep the `models/` directory structure intact because the trained model files are included in the repository.
+
+## Running the Tests
+
+Run these commands from the project root:
 
 ```powershell
-python test_reader.py sample_resumes/RES001.docx
+python test_reader.py
+python test_preprocessing.py
+python test_section_identifier.py
+python test_nlp_preparation.py
 ```
 
-You can also pass the path to another PDF or DOCX file:
+These scripts test document reading, preprocessing, section identification, and NLP dataset preparation.
 
-```powershell
-python test_reader.py "C:\path\to\your\resume.pdf"
-```
+## Dataset and Model
 
-## How the reader works
+The project uses a small, programmatically generated synthetic resume dataset for development and evaluation. It includes annotated examples and train, validation, and test splits. Synthetic resumes are also included for application testing.
 
-1. `test_reader.py` reads the selected file as bytes.
-2. It calls `extract_text(file_bytes, filename)` from `document_reader.py`.
-3. `extract_text` checks the file extension.
-4. PDF files are handled by `extract_pdf_text`; DOCX files are handled by `extract_docx_text`.
-5. The extracted text is printed in the terminal.
+The custom spaCy NER model was trained to identify these resume-related entity types:
 
-## Known limitations
+- `PERSON`
+- `EMAIL`
+- `PHONE`
+- `SKILL`
+- `DEGREE`
+- `INSTITUTION`
+- `JOB_TITLE`
+- `COMPANY`
+- `DATE`
+- `DURATION`
 
-- Image-only/scanned PDFs do not contain selectable text. OCR support is not part of this starter yet.
-- Text extraction from complex layouts, headers, footers, columns, and text boxes may be incomplete.
-- This module only reads resume text. It does not yet identify skills, education, experience, names, emails, or phone numbers.
+Rule-based and post-processing logic is also used to improve extraction of structured resume fields.
 
-## Dataset note
+**Privacy Note:** Synthetic examples are for development and testing. Do not upload or commit private resumes or personal candidate information without permission. The real resume used during local testing is not included in this repository.
 
-The included resumes are synthetic examples created for development and testing. They do not represent real candidate records. Some contact details are deliberately non-dialable placeholders.
+## Model Evaluation
 
-## Next development step
+The v2 NER model was evaluated on synthetic held-out data:
 
-Implement `text_preprocessing.py` to normalise extracted text while preserving information needed for resume parsing (such as email addresses, phone numbers, dates, punctuation, and skill names).
+| Evaluation Set | Documents | Precision / Recall / F1 |
+|---|---:|---:|
+| Original held-out test set | 9 | 0.993 |
+| New-layout hard-case test set | 4 | 0.911 |
+| Combined test set | 13 | 0.971 |
+
+These figures measure entity extraction on the project's small synthetic test sets. They are not a guarantee of performance on arbitrary real-world resumes. The dataset is limited in size and layout diversity, and broader testing with independently annotated resumes is needed.
+
+## Limitations
+
+- Image-only or scanned PDFs may not yield text because OCR is not implemented.
+- Complex layouts, columns, graphics, and unusual formatting can affect extraction.
+- Resume formats and wording vary, so some fields may be missed or incorrectly classified.
+- The evaluation dataset is small and synthetic; real-world generalisation has not been established.
+
+## Team Members
+
+| Name | Roll Number |
+|---|---|
+| Ashish Kumar | 2401201215 |
+| Garima Sharma | 2401201212 |
+| Vikram | 2401201217 |
+| Krish | 2401201218 |
+
+## Project Presentation
+
+The project presentation is available in the `Presentation/` folder.
