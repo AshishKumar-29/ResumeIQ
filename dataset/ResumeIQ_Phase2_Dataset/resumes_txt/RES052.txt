@@ -1,0 +1,14 @@
+Nisha Iyer
+Email: candidate052@example.com    Phone: +91 00000 10052
+
+PROFESSIONAL SUMMARY
+Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+
+SKILLS
+Pandas, Power BI, Agile Methodologies, Node.js, C++, AWS, SQL, Problem Solving
+
+EDUCATION
+Bachelor of Computer Applications (BCA) | Riverdale Institute of Technology | Graduation: 2018
+
+WORK EXPERIENCE
+Web Developer at NovaStack Solutions | Mar 2020 - May 2022 | 2 years

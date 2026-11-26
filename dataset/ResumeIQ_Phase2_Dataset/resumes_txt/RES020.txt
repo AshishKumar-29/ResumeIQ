@@ -1,0 +1,7 @@
+Candidate: Diya Mehta
+Contact: candidate020@example.com / +91 00000 10020
+Profile: Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+Core skills: NLTK • Machine Learning • TensorFlow • SQL • GitHub • spaCy • C++ • Flask
+Academic background: Bachelor of Science in Information Technology, Metro Institute of Science (2024)
+Career history:
+Role IT Support Engineer — CoreBridge Labs — Nov 2023 - Jan 2025 (2 years)

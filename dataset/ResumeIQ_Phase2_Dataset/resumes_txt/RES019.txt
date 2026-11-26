@@ -1,0 +1,15 @@
+Ananya Malhotra
+Email: candidate019@example.com    Phone: +91 00000 10019
+
+PROFESSIONAL SUMMARY
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+SKILLS
+HTML, AWS, NLTK, Excel, C++, Project Management, Pandas
+
+EDUCATION
+Master of Computer Applications (MCA) | Riverdale Institute of Technology | Graduation: 2020
+
+WORK EXPERIENCE
+Frontend Developer at MapleByte Systems | Sep 2022 - Feb 2024 | 2 years
+QA Analyst at MapleByte Systems | Feb 2019 - Oct 2021 | 2 years

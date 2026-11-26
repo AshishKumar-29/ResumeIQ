@@ -1,0 +1,7 @@
+Candidate: Meera Khan
+Contact: candidate050@example.com / +91 00000 10050
+Profile: Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+Core skills: spaCy • TensorFlow • Machine Learning • Power BI • Python • Public Speaking • Deep Learning
+Academic background: B.Com, North Valley University (2018)
+Career history:
+Role QA Analyst — NextWave Digital — Jun 2023 - Apr 2024 (1 year)

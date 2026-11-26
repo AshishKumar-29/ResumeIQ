@@ -1,0 +1,7 @@
+Candidate: Dev Singh
+Contact: candidate038@example.com / +91 00000 10038
+Profile: Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+Core skills: React • Pandas • AWS • Node.js • TensorFlow • C++ • Power BI • Tableau
+Academic background: Bachelor of Science in Information Technology, Greenfield Technical Institute (2022)
+Career history:
+Role Database Developer — CoreBridge Labs — Dec 2020 - Aug 2023 (3 years)

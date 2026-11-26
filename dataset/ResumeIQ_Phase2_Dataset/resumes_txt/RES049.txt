@@ -1,0 +1,15 @@
+Rohan Joshi
+Email: candidate049@example.com    Phone: +91 00000 10049
+
+PROFESSIONAL SUMMARY
+Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+
+SKILLS
+CSS, Data Analysis, Communication, Tableau, NLTK
+
+EDUCATION
+B.Com | Eastern School of Computing | Graduation: 2020
+
+WORK EXPERIENCE
+Software Engineer at NovaStack Solutions | Oct 2019 - Nov 2022 | 3 years
+Database Developer at Vertex Data Works | Dec 2018 - Apr 2019 | 1 year

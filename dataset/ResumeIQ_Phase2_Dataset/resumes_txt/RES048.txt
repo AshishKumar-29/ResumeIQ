@@ -1,0 +1,13 @@
+Aditi Saxena | candidate048@example.com | +91 00000 10048
+
+ABOUT ME
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with PyTorch, React, Communication, REST APIs, Problem Solving.
+
+EDUCATIONAL QUALIFICATION
+Completed Bachelor of Business Administration (BBA) from Pioneer College in 2018.
+
+PROFESSIONAL EXPERIENCE
+Worked as Project Coordinator with PixelTree Innovations from Feb 2022 - Jul 2025 for 3 years.

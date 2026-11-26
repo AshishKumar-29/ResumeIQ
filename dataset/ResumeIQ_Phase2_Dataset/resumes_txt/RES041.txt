@@ -1,0 +1,7 @@
+Candidate: Aarav Joshi
+Contact: candidate041@example.com / +91 00000 10041
+Profile: Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+Core skills: Teamwork • Git • Django • Deep Learning • SQL • REST APIs • NLTK • Scikit-learn
+Academic background: Diploma in Information Technology, Summit School of Technology (2018)
+Career history:
+Role Database Developer — Vertex Data Works — May 2022 - Nov 2025 (3 years)

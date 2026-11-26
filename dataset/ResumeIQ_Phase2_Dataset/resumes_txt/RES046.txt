@@ -1,0 +1,14 @@
+Aarav Chawla
+Email: candidate046@example.com    Phone: +91 00000 10046
+
+PROFESSIONAL SUMMARY
+Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+
+SKILLS
+Machine Learning, Data Analysis, Deep Learning, Excel, PyTorch, Python
+
+EDUCATION
+Bachelor of Computer Applications (BCA) | Summit School of Technology | Graduation: 2026
+
+WORK EXPERIENCE
+NLP Research Intern at Silverline Consulting | Aug 2020 - Jul 2023 | 3 years

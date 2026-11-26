@@ -1,0 +1,14 @@
+Aditi Malhotra
+Email: candidate007@example.com    Phone: +91 00000 10007
+
+PROFESSIONAL SUMMARY
+Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+
+SKILLS
+GitHub, C++, NumPy, AWS, NLTK, Node.js, REST APIs
+
+EDUCATION
+B.Tech in Computer Science | Summit School of Technology | Graduation: 2026
+
+WORK EXPERIENCE
+Web Developer at Cedar Systems | Dec 2021 - Nov 2022 | 1 year

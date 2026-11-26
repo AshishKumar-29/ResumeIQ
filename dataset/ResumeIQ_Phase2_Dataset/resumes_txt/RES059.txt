@@ -1,0 +1,8 @@
+Candidate: Aditya Chawla
+Contact: candidate059@example.com / +91 00000 10059
+Profile: Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+Core skills: Deep Learning • SQL • Natural Language Processing • Git • NumPy • spaCy
+Academic background: B.Sc. in Mathematics, Westbridge University (2026)
+Career history:
+Role Junior Data Scientist — UrbanMetric Solutions — Jun 2023 - Mar 2024 (1 year)
+Role Software Engineer — BluePeak Technologies — Nov 2020 - Oct 2022 (2 years)

@@ -1,0 +1,8 @@
+Candidate: Saanvi Bose
+Contact: candidate044@example.com / +91 00000 10044
+Profile: Motivated professional with a strong interest in learning, collaboration, and delivering reliable work.
+Core skills: JavaScript • React • Power BI • Data Analysis • GitHub
+Academic background: Diploma in Information Technology, Summit School of Technology (2024)
+Career history:
+Role Associate Consultant — CloudHarbor Tech — Jun 2020 - Feb 2023 (3 years)
+Role QA Analyst — Vertex Data Works — Dec 2019 - Sep 2020 (1 year)

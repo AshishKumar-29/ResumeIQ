@@ -1,0 +1,7 @@
+Candidate: Ishaan Nair
+Contact: candidate056@example.com / +91 00000 10056
+Profile: Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+Core skills: React • NLTK • Agile Methodologies • PyTorch • spaCy • Excel • Scikit-learn
+Academic background: B.Com, Metro Institute of Science (2022)
+Career history:
+Role Machine Learning Intern — UrbanMetric Solutions — Nov 2020 - Jan 2022 (2 years)

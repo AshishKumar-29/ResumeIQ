@@ -1,0 +1,13 @@
+Kavya Joshi | candidate018@example.com | +91 00000 10018
+
+ABOUT ME
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Machine Learning, SQL, PyTorch, AWS, Scikit-learn, Docker, Java.
+
+EDUCATIONAL QUALIFICATION
+Completed Master of Business Administration (MBA) from Eastern School of Computing in 2019.
+
+PROFESSIONAL EXPERIENCE
+Worked as Associate Consultant with CloudHarbor Tech from Mar 2023 - Apr 2024 for 1 year.

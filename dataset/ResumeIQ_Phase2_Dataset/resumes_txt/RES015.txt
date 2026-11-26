@@ -1,0 +1,14 @@
+Dev Rao | candidate015@example.com | +91 00000 10015
+
+ABOUT ME
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Node.js, Docker, AWS, React, NumPy, Django.
+
+EDUCATIONAL QUALIFICATION
+Completed Bachelor of Business Administration (BBA) from Westbridge University in 2019.
+
+PROFESSIONAL EXPERIENCE
+Worked as Associate Consultant with BluePeak Technologies from Dec 2024 - Jun 2025 for 1 year.
+Worked as Python Developer with Aster Digital Labs from Dec 2023 - Mar 2024 for 1 year.

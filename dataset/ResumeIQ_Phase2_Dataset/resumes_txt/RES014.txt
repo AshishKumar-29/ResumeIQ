@@ -1,0 +1,7 @@
+Candidate: Aditi Gupta
+Contact: candidate014@example.com / +91 00000 10014
+Profile: Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+Core skills: JavaScript • Node.js • GitHub • Machine Learning • Scikit-learn • Django
+Academic background: M.Sc. in Data Science, Metro Institute of Science (2024)
+Career history:
+Role IT Support Engineer — NovaStack Solutions — Jul 2020 - Jul 2023 (3 years)

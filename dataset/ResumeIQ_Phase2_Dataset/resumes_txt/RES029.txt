@@ -1,0 +1,7 @@
+Candidate: Kavya Patel
+Contact: candidate029@example.com / +91 00000 10029
+Profile: Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+Core skills: Pandas • Docker • Communication • Problem Solving • React • Node.js
+Academic background: Diploma in Information Technology, Eastern School of Computing (2019)
+Career history:
+Role Backend Developer — Aster Digital Labs — Apr 2021 - Jun 2022 (1 year)

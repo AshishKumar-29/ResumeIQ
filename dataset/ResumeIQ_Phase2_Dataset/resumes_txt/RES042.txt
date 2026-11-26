@@ -1,0 +1,14 @@
+Reyansh Nair | candidate042@example.com | +91 00000 10042
+
+ABOUT ME
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Python, NLTK, Excel, CSS, Java, PyTorch, spaCy.
+
+EDUCATIONAL QUALIFICATION
+Completed Bachelor of Science in Information Technology from North Valley University in 2018.
+
+PROFESSIONAL EXPERIENCE
+Worked as Junior Data Scientist with CloudHarbor Tech from Feb 2020 - Feb 2023 for 3 years.
+Worked as Project Coordinator with NextWave Digital from May 2018 - Oct 2019 for 1 year.

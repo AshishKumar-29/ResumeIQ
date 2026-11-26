@@ -1,0 +1,14 @@
+Meera Saxena
+Email: candidate013@example.com    Phone: +91 00000 10013
+
+PROFESSIONAL SUMMARY
+Motivated professional with a strong interest in learning, collaboration, and delivering reliable work.
+
+SKILLS
+Git, PyTorch, HTML, Node.js, Communication, Machine Learning
+
+EDUCATION
+M.Sc. in Data Science | Riverdale Institute of Technology | Graduation: 2021
+
+WORK EXPERIENCE
+Database Developer at Cedar Systems | Nov 2023 - Dec 2024 | 1 year

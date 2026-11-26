@@ -1,0 +1,8 @@
+Candidate: Aarav Sharma
+Contact: candidate023@example.com / +91 00000 10023
+Profile: Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+Core skills: SQL • Deep Learning • Project Management • AWS • Node.js • Tableau • Django
+Academic background: M.Sc. in Data Science, Metro Institute of Science (2023)
+Career history:
+Role Data Analyst — Cedar Systems — Dec 2021 - Dec 2023 (2 years)
+Role Backend Developer — UrbanMetric Solutions — Jul 2020 - Aug 2021 (1 year)

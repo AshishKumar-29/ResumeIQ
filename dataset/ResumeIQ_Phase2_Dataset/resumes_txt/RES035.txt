@@ -1,0 +1,8 @@
+Candidate: Pooja Sharma
+Contact: candidate035@example.com / +91 00000 10035
+Profile: Organised and adaptable candidate with experience working on structured projects and team assignments.
+Core skills: Git • Docker • SQL • React • Machine Learning • Teamwork • Data Analysis • C++
+Academic background: Bachelor of Business Administration (BBA), Central College of Management (2026)
+Career history:
+Role Database Developer — MapleByte Systems — Apr 2023 - Sep 2024 (1 year)
+Role IT Support Engineer — BrightPath Analytics — Jun 2022 - Sep 2023 (1 year)

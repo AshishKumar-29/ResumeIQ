@@ -1,0 +1,15 @@
+Pooja Patel
+Email: candidate031@example.com    Phone: +91 00000 10031
+
+PROFESSIONAL SUMMARY
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+SKILLS
+Data Analysis, spaCy, NLTK, React, TensorFlow, GitHub, Machine Learning, SQL
+
+EDUCATION
+Bachelor of Science in Information Technology | Riverdale Institute of Technology | Graduation: 2023
+
+WORK EXPERIENCE
+QA Analyst at Skyline Applications | Jan 2023 - Aug 2024 | 1 year
+Project Coordinator at CloudHarbor Tech | Sep 2020 - Jun 2022 | 2 years

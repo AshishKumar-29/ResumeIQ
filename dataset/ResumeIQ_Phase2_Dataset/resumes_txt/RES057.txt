@@ -1,0 +1,13 @@
+Nisha Verma | candidate057@example.com | +91 00000 10057
+
+ABOUT ME
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Git, PyTorch, Power BI, JavaScript, Node.js, CSS, NLTK, Docker.
+
+EDUCATIONAL QUALIFICATION
+Completed Diploma in Information Technology from Metro Institute of Science in 2018.
+
+PROFESSIONAL EXPERIENCE
+Worked as Project Coordinator with Silverline Consulting from Sep 2021 - Jan 2024 for 3 years.

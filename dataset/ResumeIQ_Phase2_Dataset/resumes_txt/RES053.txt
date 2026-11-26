@@ -1,0 +1,7 @@
+Candidate: Arjun Rao
+Contact: candidate053@example.com / +91 00000 10053
+Profile: Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+Core skills: React • REST APIs • Pandas • Problem Solving • JavaScript • Excel
+Academic background: B.Tech in Computer Science, Central College of Management (2026)
+Career history:
+Role Python Developer — PixelTree Innovations — Nov 2021 - Jan 2023 (2 years)

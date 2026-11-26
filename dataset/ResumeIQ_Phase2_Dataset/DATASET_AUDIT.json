@@ -1,0 +1,36 @@
+{
+  "resume_count": 60,
+  "splits": {
+    "train": 42,
+    "validation": 9,
+    "test": 9
+  },
+  "unique_texts": 60,
+  "total_entity_spans": 1056,
+  "label_counts": {
+    "COMPANY": 75,
+    "DATE": 135,
+    "DEGREE": 60,
+    "DURATION": 75,
+    "EMAIL": 60,
+    "INSTITUTION": 60,
+    "JOB_TITLE": 75,
+    "PERSON": 60,
+    "PHONE": 60,
+    "SKILL": 396
+  },
+  "layouts": {
+    "classic": 20,
+    "compact": 20,
+    "narrative": 20
+  },
+  "sample_uploads": {
+    "pdf": 6,
+    "docx": 6
+  },
+  "spaCy_docbins": {
+    "train": 26419,
+    "validation": 8642,
+    "test": 8470
+  }
+}

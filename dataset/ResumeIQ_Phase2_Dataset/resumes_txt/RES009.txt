@@ -1,0 +1,13 @@
+Neel Mehta | candidate009@example.com | +91 00000 10009
+
+ABOUT ME
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with NLTK, Scikit-learn, JavaScript, HTML, Git, CSS, spaCy.
+
+EDUCATIONAL QUALIFICATION
+Completed Bachelor of Computer Applications (BCA) from Eastern School of Computing in 2022.
+
+PROFESSIONAL EXPERIENCE
+Worked as Machine Learning Intern with PixelTree Innovations from Jan 2020 - Apr 2022 for 2 years.

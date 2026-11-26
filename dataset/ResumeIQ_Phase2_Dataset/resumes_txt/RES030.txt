@@ -1,0 +1,13 @@
+Diya Khan | candidate030@example.com | +91 00000 10030
+
+ABOUT ME
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Project Management, Scikit-learn, spaCy, React, Problem Solving.
+
+EDUCATIONAL QUALIFICATION
+Completed Bachelor of Business Administration (BBA) from Horizon University in 2019.
+
+PROFESSIONAL EXPERIENCE
+Worked as Backend Developer with CloudHarbor Tech from Dec 2022 - May 2023 for 1 year.

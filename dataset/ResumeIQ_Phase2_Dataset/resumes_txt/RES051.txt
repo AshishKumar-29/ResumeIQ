@@ -1,0 +1,13 @@
+Meera Sharma | candidate051@example.com | +91 00000 10051
+
+ABOUT ME
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Teamwork, CSS, PyTorch, Node.js, REST APIs.
+
+EDUCATIONAL QUALIFICATION
+Completed B.Sc. in Mathematics from Summit School of Technology in 2025.
+
+PROFESSIONAL EXPERIENCE
+Worked as Database Developer with PixelTree Innovations from Dec 2023 - Sep 2024 for 1 year.

@@ -1,0 +1,14 @@
+Saanvi Joshi
+Email: candidate001@example.com    Phone: +91 00000 10001
+
+PROFESSIONAL SUMMARY
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+SKILLS
+NLTK, spaCy, Django, Machine Learning, SQL, Power BI
+
+EDUCATION
+Bachelor of Computer Applications (BCA) | Greenfield Technical Institute | Graduation: 2024
+
+WORK EXPERIENCE
+IT Support Engineer at Silverline Consulting | Jun 2023 - Oct 2025 | 2 years

@@ -1,0 +1,14 @@
+Arjun Bose
+Email: candidate034@example.com    Phone: +91 00000 10034
+
+PROFESSIONAL SUMMARY
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+SKILLS
+Problem Solving, Flask, spaCy, Data Analysis, C++, HTML
+
+EDUCATION
+B.Sc. in Mathematics | Horizon University | Graduation: 2021
+
+WORK EXPERIENCE
+Database Developer at BluePeak Technologies | Jul 2021 - Feb 2022 | 1 year

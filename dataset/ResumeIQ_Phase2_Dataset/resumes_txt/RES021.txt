@@ -1,0 +1,14 @@
+Kavya Menon | candidate021@example.com | +91 00000 10021
+
+ABOUT ME
+Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with JavaScript, REST APIs, NLTK, Deep Learning, SQL, Power BI, Communication.
+
+EDUCATIONAL QUALIFICATION
+Completed B.Com from Pioneer College in 2024.
+
+PROFESSIONAL EXPERIENCE
+Worked as Database Developer with NovaStack Solutions from Jan 2021 - Jul 2024 for 3 years.
+Worked as Machine Learning Intern with CloudHarbor Tech from Dec 2020 - Mar 2021 for 1 year.

@@ -1,0 +1,13 @@
+Tara Menon | candidate054@example.com | +91 00000 10054
+
+ABOUT ME
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with TensorFlow, Data Analysis, AWS, Pandas, Flask, SQL, PyTorch.
+
+EDUCATIONAL QUALIFICATION
+Completed Diploma in Information Technology from Riverdale Institute of Technology in 2026.
+
+PROFESSIONAL EXPERIENCE
+Worked as Database Developer with Skyline Applications from Oct 2023 - Jun 2025 for 2 years.

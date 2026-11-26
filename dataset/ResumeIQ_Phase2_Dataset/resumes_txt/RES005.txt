@@ -1,0 +1,7 @@
+Candidate: Arjun Patel
+Contact: candidate005@example.com / +91 00000 10005
+Profile: Motivated professional with a strong interest in learning, collaboration, and delivering reliable work.
+Core skills: Node.js • Flask • Git • JavaScript • Java
+Academic background: Master of Computer Applications (MCA), Metro Institute of Science (2020)
+Career history:
+Role Machine Learning Intern — NextWave Digital — May 2021 - Aug 2023 (2 years)

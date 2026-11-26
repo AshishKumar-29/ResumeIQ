@@ -1,0 +1,14 @@
+Ananya Joshi | candidate033@example.com | +91 00000 10033
+
+ABOUT ME
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Scikit-learn, Excel, HTML, Project Management, Public Speaking, Git, C++.
+
+EDUCATIONAL QUALIFICATION
+Completed Bachelor of Science in Information Technology from Greenfield Technical Institute in 2025.
+
+PROFESSIONAL EXPERIENCE
+Worked as Junior Data Scientist with NovaStack Solutions from Jun 2021 - Aug 2022 for 1 year.
+Worked as Web Developer with PixelTree Innovations from Oct 2018 - Jul 2020 for 2 years.

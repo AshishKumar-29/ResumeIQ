@@ -1,0 +1,7 @@
+Candidate: Ira Bhat
+Contact: candidate017@example.com / +91 00000 10017
+Profile: Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+Core skills: Data Analysis • Public Speaking • NLTK • Excel • Scikit-learn
+Academic background: B.Com, Central College of Management (2022)
+Career history:
+Role Backend Developer — Aster Digital Labs — Oct 2022 - Dec 2023 (1 year)

@@ -1,0 +1,7 @@
+Candidate: Saanvi Sharma
+Contact: candidate047@example.com / +91 00000 10047
+Profile: Motivated professional with a strong interest in learning, collaboration, and delivering reliable work.
+Core skills: Project Management • JavaScript • Java • Python • Communication • AWS
+Academic background: B.Sc. in Mathematics, Riverdale Institute of Technology (2023)
+Career history:
+Role Backend Developer — UrbanMetric Solutions — Jul 2020 - Jul 2023 (3 years)

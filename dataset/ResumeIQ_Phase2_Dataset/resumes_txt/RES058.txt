@@ -1,0 +1,14 @@
+Nisha Das
+Email: candidate058@example.com    Phone: +91 00000 10058
+
+PROFESSIONAL SUMMARY
+Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+
+SKILLS
+Communication, Excel, Data Analysis, REST APIs, Flask, Pandas, C++, Agile Methodologies
+
+EDUCATION
+Bachelor of Computer Applications (BCA) | Horizon University | Graduation: 2023
+
+WORK EXPERIENCE
+Web Developer at Vertex Data Works | Oct 2021 - Feb 2024 | 3 years

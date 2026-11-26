@@ -1,0 +1,14 @@
+Ishaan Verma
+Email: candidate055@example.com    Phone: +91 00000 10055
+
+PROFESSIONAL SUMMARY
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+SKILLS
+spaCy, Tableau, React, Scikit-learn, Excel, Data Analysis, SQL
+
+EDUCATION
+M.Sc. in Data Science | Pioneer College | Graduation: 2021
+
+WORK EXPERIENCE
+Database Developer at Vertex Data Works | Jul 2023 - Feb 2025 | 2 years

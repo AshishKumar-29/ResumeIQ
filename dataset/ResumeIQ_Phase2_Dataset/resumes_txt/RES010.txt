@@ -1,0 +1,15 @@
+Arjun Menon
+Email: candidate010@example.com    Phone: +91 00000 10010
+
+PROFESSIONAL SUMMARY
+Motivated professional with a strong interest in learning, collaboration, and delivering reliable work.
+
+SKILLS
+GitHub, JavaScript, Django, REST APIs, Data Analysis, Tableau, Natural Language Processing, Pandas
+
+EDUCATION
+Master of Computer Applications (MCA) | Eastern School of Computing | Graduation: 2018
+
+WORK EXPERIENCE
+Machine Learning Intern at PixelTree Innovations | Oct 2020 - Oct 2022 | 2 years
+Data Analyst at MapleByte Systems | Jan 2019 - Feb 2020 | 1 year

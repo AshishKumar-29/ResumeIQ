@@ -1,0 +1,14 @@
+Dev Gupta
+Email: candidate025@example.com    Phone: +91 00000 10025
+
+PROFESSIONAL SUMMARY
+Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+
+SKILLS
+Pandas, REST APIs, Natural Language Processing, Docker, Tableau, Public Speaking, Project Management, TensorFlow
+
+EDUCATION
+Bachelor of Science in Information Technology | Greenfield Technical Institute | Graduation: 2022
+
+WORK EXPERIENCE
+Junior Data Scientist at Vertex Data Works | Jun 2022 - Sep 2025 | 3 years

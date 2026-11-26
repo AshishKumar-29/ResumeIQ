@@ -1,0 +1,14 @@
+Kabir Bhat
+Email: candidate043@example.com    Phone: +91 00000 10043
+
+PROFESSIONAL SUMMARY
+Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+
+SKILLS
+PyTorch, Docker, Node.js, CSS, NumPy, JavaScript
+
+EDUCATION
+Master of Computer Applications (MCA) | Horizon University | Graduation: 2026
+
+WORK EXPERIENCE
+Database Developer at CoreBridge Labs | Jul 2021 - Oct 2022 | 1 year

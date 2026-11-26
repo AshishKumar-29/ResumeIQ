@@ -1,0 +1,14 @@
+Ishaan Patel | candidate045@example.com | +91 00000 10045
+
+ABOUT ME
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with SQL, Tableau, Django, spaCy, Node.js, TensorFlow.
+
+EDUCATIONAL QUALIFICATION
+Completed Diploma in Information Technology from Summit School of Technology in 2023.
+
+PROFESSIONAL EXPERIENCE
+Worked as Python Developer with Orbit Software Services from Oct 2019 - Mar 2022 for 3 years.
+Worked as Database Developer with BluePeak Technologies from Mar 2018 - Jan 2019 for 1 year.

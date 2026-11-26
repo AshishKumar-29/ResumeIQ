@@ -1,0 +1,7 @@
+Candidate: Saanvi Bhat
+Contact: candidate026@example.com / +91 00000 10026
+Profile: Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+Core skills: Public Speaking • HTML • Machine Learning • Agile Methodologies • SQL • Node.js • Java • Docker
+Academic background: Bachelor of Science in Information Technology, Central College of Management (2021)
+Career history:
+Role Python Developer — CloudHarbor Tech — Nov 2020 - Jul 2022 (2 years)

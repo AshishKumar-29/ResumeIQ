@@ -1,0 +1,7 @@
+Candidate: Dev Bhat
+Contact: candidate011@example.com / +91 00000 10011
+Profile: Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+Core skills: C++ • Python • Agile Methodologies • Excel • Docker
+Academic background: Master of Business Administration (MBA), Pioneer College (2022)
+Career history:
+Role Data Analyst — NextWave Digital — Nov 2022 - Apr 2024 (2 years)

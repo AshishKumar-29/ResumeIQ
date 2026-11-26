@@ -1,0 +1,56 @@
+[
+  {
+    "split": "train",
+    "documents": 42,
+    "entities": 749,
+    "entity_counts": {
+      "COMPANY": 55,
+      "DATE": 97,
+      "DEGREE": 42,
+      "DURATION": 55,
+      "EMAIL": 42,
+      "INSTITUTION": 42,
+      "JOB_TITLE": 55,
+      "PERSON": 42,
+      "PHONE": 42,
+      "SKILL": 277
+    },
+    "output": "dataset\\ResumeIQ_Phase2_Dataset\\spacy\\train.spacy"
+  },
+  {
+    "split": "validation",
+    "documents": 9,
+    "entities": 158,
+    "entity_counts": {
+      "COMPANY": 11,
+      "DATE": 20,
+      "DEGREE": 9,
+      "DURATION": 11,
+      "EMAIL": 9,
+      "INSTITUTION": 9,
+      "JOB_TITLE": 11,
+      "PERSON": 9,
+      "PHONE": 9,
+      "SKILL": 60
+    },
+    "output": "dataset\\ResumeIQ_Phase2_Dataset\\spacy\\validation.spacy"
+  },
+  {
+    "split": "test",
+    "documents": 9,
+    "entities": 149,
+    "entity_counts": {
+      "COMPANY": 9,
+      "DATE": 18,
+      "DEGREE": 9,
+      "DURATION": 9,
+      "EMAIL": 9,
+      "INSTITUTION": 9,
+      "JOB_TITLE": 9,
+      "PERSON": 9,
+      "PHONE": 9,
+      "SKILL": 59
+    },
+    "output": "dataset\\ResumeIQ_Phase2_Dataset\\spacy\\test.spacy"
+  }
+]

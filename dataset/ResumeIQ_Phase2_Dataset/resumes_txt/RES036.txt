@@ -1,0 +1,13 @@
+Tara Nair | candidate036@example.com | +91 00000 10036
+
+ABOUT ME
+Motivated professional with a strong interest in learning, collaboration, and delivering reliable work.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with NumPy, GitHub, JavaScript, Problem Solving, Scikit-learn, Node.js, Public Speaking, Docker.
+
+EDUCATIONAL QUALIFICATION
+Completed B.Com from Eastern School of Computing in 2021.
+
+PROFESSIONAL EXPERIENCE
+Worked as IT Support Engineer with Aster Digital Labs from Dec 2021 - Jan 2023 for 2 years.

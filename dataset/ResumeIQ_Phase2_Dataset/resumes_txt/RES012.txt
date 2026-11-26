@@ -1,0 +1,13 @@
+Saanvi Das | candidate012@example.com | +91 00000 10012
+
+ABOUT ME
+Organised and adaptable candidate with experience working on structured projects and team assignments.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Git, SQL, Communication, PyTorch, Machine Learning.
+
+EDUCATIONAL QUALIFICATION
+Completed Master of Business Administration (MBA) from Riverdale Institute of Technology in 2026.
+
+PROFESSIONAL EXPERIENCE
+Worked as Business Analyst with Orbit Software Services from Dec 2020 - May 2023 for 3 years.

@@ -1,0 +1,13 @@
+Nisha Reddy | candidate039@example.com | +91 00000 10039
+
+ABOUT ME
+Analytical professional who enjoys turning requirements into clear, maintainable solutions.
+
+TECHNICAL AND PROFESSIONAL SKILLS
+I have worked with Teamwork, Flask, Power BI, AWS, Problem Solving, Deep Learning, Agile Methodologies, Public Speaking.
+
+EDUCATIONAL QUALIFICATION
+Completed Master of Computer Applications (MCA) from Riverdale Institute of Technology in 2021.
+
+PROFESSIONAL EXPERIENCE
+Worked as Web Developer with CoreBridge Labs from Oct 2021 - Dec 2024 for 3 years.

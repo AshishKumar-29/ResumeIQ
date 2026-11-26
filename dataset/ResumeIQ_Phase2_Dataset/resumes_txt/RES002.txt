@@ -1,0 +1,8 @@
+Candidate: Vivaan Rao
+Contact: candidate002@example.com / +91 00000 10002
+Profile: Enthusiastic early-career professional seeking opportunities to contribute to technology-driven teams.
+Core skills: Problem Solving • PyTorch • React • C++ • Power BI • Natural Language Processing • Node.js • Java
+Academic background: Diploma in Information Technology, Greenfield Technical Institute (2021)
+Career history:
+Role Database Developer — BrightPath Analytics — Aug 2021 - Jan 2023 (2 years)
+Role Machine Learning Intern — Cedar Systems — Nov 2020 - Sep 2021 (1 year)

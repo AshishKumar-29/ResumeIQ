@@ -1,0 +1,14 @@
+Diya Sharma
+Email: candidate028@example.com    Phone: +91 00000 10028
+
+PROFESSIONAL SUMMARY
+Detail-oriented candidate with academic project experience and a practical approach to problem solving.
+
+SKILLS
+C++, NumPy, Scikit-learn, AWS, Teamwork, Excel
+
+EDUCATION
+Bachelor of Science in Information Technology | North Valley University | Graduation: 2024
+
+WORK EXPERIENCE
+Backend Developer at PixelTree Innovations | May 2019 - Jun 2022 | 3 years

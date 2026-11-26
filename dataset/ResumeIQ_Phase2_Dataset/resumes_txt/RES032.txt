@@ -1,0 +1,7 @@
+Candidate: Aditi Khan
+Contact: candidate032@example.com / +91 00000 10032
+Profile: Motivated professional with a strong interest in learning, collaboration, and delivering reliable work.
+Core skills: C++ • Data Analysis • spaCy • Machine Learning • Teamwork • Natural Language Processing • Java • Deep Learning
+Academic background: B.Tech in Computer Science, Horizon University (2022)
+Career history:
+Role Data Analyst — CoreBridge Labs — May 2021 - Oct 2023 (2 years)
