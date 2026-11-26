@@ -1,5 +1,4 @@
-# ResumeIQ – Phase 3 Starter
-
+# ResumeIQ
 ResumeIQ is a capstone project for **Resume Information Extraction**. The current Phase 3 starter implements the first backend component: reading selectable text from PDF and DOCX resumes.
 
 ## Current features
